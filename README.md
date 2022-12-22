@@ -71,3 +71,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+1. Understood basic workflow of Nest JS.
+2. Created a user module and controller in Nest JS.
+3. Learnt to perform Get, Post, Patch, Put and Delete in Nest JS.
+4. Also learnt to fetch data from Body, Query and Params decorators.
+5. Understood implemetation of decorators in Nest JS.
+6. Also, learnt to use data validators and transfromers.
